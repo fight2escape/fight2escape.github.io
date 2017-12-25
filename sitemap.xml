@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
+        
+    <url>
+     <loc>/实践总结/一直没有对外公布的建站流程/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/实践总结/谈笑间秒懂web服务器/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/实践总结/谈笑间秒懂云服务器/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/实践总结/谈笑间秒懂数据库/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
     <url>
      <loc>/about/</loc>
      <lastmod>2017-12-25</lastmod>
