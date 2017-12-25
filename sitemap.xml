@@ -4,6 +4,28 @@
     
         
     <url>
+     <loc>/填坑记录/Font-Spider（字蛛）-踩坑记录/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/填坑记录/centos7中SSH连接失败问题处理/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/填坑记录/安装Linux时报错This kernel requires an X86-64 CPU/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
      <loc>/实践总结/一直没有对外公布的建站流程/</loc>
      <lastmod>2017-12-25</lastmod>
      <changefreq>daily</changefreq>
@@ -23,6 +45,130 @@
         
     <url>
      <loc>/实践总结/谈笑间秒懂数据库/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/快速部署/CentOS7.2上yum安装PHP7/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/CentOS7.2上搭建LAMP环境/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/CentOS7.2上继续使用MySQL/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/CentOS7.2配置Nginx + PHP-FPM/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/ThinkPHP5集成阿里大于短信接口/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/VScode配置C++编译环境/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/Windows上配置MinGW使用g++/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/windows下PHP的安装包选择/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/快速上手MySQL/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/快速上手PHPStorm/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/快速上手Sublime/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/快速上手docker/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/快速上手phpredis/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/腾讯云服务器选购指北/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/项目上线之LAMP配置二级域名/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/项目上线之LNMP配置二级域名/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/项目上线之Nginx配置HTTPS/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/项目上线之WAMP配置二级域名/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/项目上线之域名解析/</loc>
+     <lastmod>2017-12-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/快速部署/项目上线之数据库配置/</loc>
      <lastmod>2017-12-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
