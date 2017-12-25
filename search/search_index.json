@@ -1,24 +1,54 @@
 {
     "docs": [
         {
+            "location": "/test/\u597d\u7684\u5427/\u6211 \u5012\u8981\u770b\u770b\u6587\u4ef6\u540d\u53ef\u4ee5\u591a\u957f/", 
+            "text": "", 
+            "title": "\u6211 \u5012\u8981\u770b\u770b\u6587\u4ef6\u540d\u53ef\u4ee5\u591a\u957f"
+        }, 
+        {
+            "location": "/test/\u597d\u7684\u5427/\u6211\u4e5f\u89c9\u5f97\u884c\u5427/", 
+            "text": "", 
+            "title": "\u6211\u4e5f\u89c9\u5f97\u884c\u5427"
+        }, 
+        {
+            "location": "/test/\u597d\u7684\u5427/\u884c\u5427/", 
+            "text": "ok", 
+            "title": "\u884c\u5427"
+        }, 
+        {
+            "location": "/test/\u597d\u7684\u5427/\u884c\u5427/#ok", 
+            "text": "", 
+            "title": "ok"
+        }, 
+        {
+            "location": "/test/test\u4e2d\u6587/", 
+            "text": "just test the zh-CN\n\n\n\n\nplease see the \nabout me\n, to get more information.", 
+            "title": "Test\u4e2d\u6587"
+        }, 
+        {
+            "location": "/test/test\u4e2d\u6587/#just-test-the-zh-cn", 
+            "text": "please see the  about me , to get more information.", 
+            "title": "just test the zh-CN"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "\u4ee5\u524d\u6ca1\u5f97\u9009\uff0c\u73b0\u5728\u6211\u60f3\u505a\u4e2a\u597d\u4eba\u3002\n\n\n\n\n\n\n\u8054\u7cfb\u90ae\u7bb1\uff1a fight2escape@gmail.com\n\n\n\n\n\u4fee\u6539\u65f6\u95f4\uff1a2017\u5e7412\u670824\u65e5\n\n\n\u66f4\u65b0\u8bb0\u5f55\n\n\n\n\nV2.0\uff082017-12-23\uff09\n\n\n\u8fc1\u79fb\u5230Github Page\n\n\n\u4f7f\u7528MkDocs\u6587\u6863\u5f15\u64ce\n\n\n\u4f7f\u7528Material for MkDocs\u6a21\u677f\n\n\n\n\n\n\nV1.2\uff082017-2-26\uff09\n\n\n\u5347\u7ea7\u670d\u52a1\u5668\u786c\u4ef6\n\n\n\u5347\u7ea7\u5230PHP7\n\n\n\u4f7f\u7528\u4e07\u8c61\u4f18\u56fe\u5b58\u50a8\u56fe\u7247\n\n\n\u4f7f\u7528CDN\u52a0\u901f\u56fe\u7247\u52a0\u8f7d\n\n\n\n\n\n\nV1.1\uff082016-12-18\uff09\n\n\n\u524d\u540e\u53f0\u652f\u6301MarkDown\n\n\n\u4fee\u590d\u6743\u9650\u6f0f\u6d1e\n\n\n\u4f18\u5316\u6587\u7ae0\u663e\u793a\u6548\u679c\n\n\n\u65b0\u589e\u7ad9\u70b9\u7edf\u8ba1\n\n\n\u8fdb\u884c\u5b89\u5168\u76d1\u63a7\n\n\n\n\n\n\nV1.0\uff082016-12-15\uff09\n\n\n\u535a\u5ba2\u4e0a\u7ebf\n\n\n\u5404\u79cd\u4f18\u5316\n\n\n\u524d\u53f0\u9996\u9875\u3001\u5217\u8868\u9875\u3001\u8be6\u60c5\u9875\uff0c\u57fa\u672c\u7684\u6587\u7ae0\u5c55\u793a\n\n\n\u540e\u53f0\u4e0d\u544a\u8bc9\u4f60", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#_1", 
+            "text": "V2.0\uff082017-12-23\uff09  \u8fc1\u79fb\u5230Github Page  \u4f7f\u7528MkDocs\u6587\u6863\u5f15\u64ce  \u4f7f\u7528Material for MkDocs\u6a21\u677f    V1.2\uff082017-2-26\uff09  \u5347\u7ea7\u670d\u52a1\u5668\u786c\u4ef6  \u5347\u7ea7\u5230PHP7  \u4f7f\u7528\u4e07\u8c61\u4f18\u56fe\u5b58\u50a8\u56fe\u7247  \u4f7f\u7528CDN\u52a0\u901f\u56fe\u7247\u52a0\u8f7d    V1.1\uff082016-12-18\uff09  \u524d\u540e\u53f0\u652f\u6301MarkDown  \u4fee\u590d\u6743\u9650\u6f0f\u6d1e  \u4f18\u5316\u6587\u7ae0\u663e\u793a\u6548\u679c  \u65b0\u589e\u7ad9\u70b9\u7edf\u8ba1  \u8fdb\u884c\u5b89\u5168\u76d1\u63a7    V1.0\uff082016-12-15\uff09  \u535a\u5ba2\u4e0a\u7ebf  \u5404\u79cd\u4f18\u5316  \u524d\u53f0\u9996\u9875\u3001\u5217\u8868\u9875\u3001\u8be6\u60c5\u9875\uff0c\u57fa\u672c\u7684\u6587\u7ae0\u5c55\u793a  \u540e\u53f0\u4e0d\u544a\u8bc9\u4f60", 
+            "title": "\u66f4\u65b0\u8bb0\u5f55"
+        }, 
+        {
             "location": "/", 
             "text": "\u51fa\u6765\u6df7\uff0c\u8fdf\u65e9\u662f\u8981\u8fd8\u7684", 
-            "title": "Home"
+            "title": "Index"
         }, 
         {
             "location": "/#_1", 
             "text": "", 
             "title": "\u51fa\u6765\u6df7\uff0c\u8fdf\u65e9\u662f\u8981\u8fd8\u7684"
-        }, 
-        {
-            "location": "/about/", 
-            "text": "\u4ee5\u524d\u6ca1\u5f97\u9009\uff0c\u73b0\u5728\u6211\u60f3\u505a\u4e2a\u597d\u4eba\u3002\n\n\n\n\n\n\n\u8054\u7cfb\u90ae\u7bb1\uff1a fight2escape@gmail.com\n\n\n\n\n\u4fee\u6539\u65f6\u95f4\uff1a2017\u5e7412\u670824\u65e5\n\n\n\u66f4\u65b0\u8bb0\u5f55\n\n\n\n\nV2.0\n\n\n\u8fc1\u79fb\u5230Github Page\n\n\n\u4f7f\u7528MkDocs\u6587\u6863\u5f15\u64ce\n\n\n\u4f7f\u7528Material for MkDocs\u6a21\u677f\n\n\n\n\n\n\nV1.2\uff082017-2-26\uff09\n\n\n\u5347\u7ea7\u670d\u52a1\u5668\u786c\u4ef6\n\n\n\u5347\u7ea7\u5230PHP7\n\n\n\u4f7f\u7528\u4e07\u8c61\u4f18\u56fe\u5b58\u50a8\u56fe\u7247\n\n\n\u4f7f\u7528CDN\u52a0\u901f\u56fe\u7247\u52a0\u8f7d\n\n\n\n\n\n\nV1.1\uff082016-12-18\uff09\n\n\n\u524d\u540e\u53f0\u652f\u6301MarkDown\n\n\n\u4fee\u590d\u6743\u9650\u6f0f\u6d1e\n\n\n\u4f18\u5316\u6587\u7ae0\u663e\u793a\u6548\u679c\n\n\n\u65b0\u589e\u7ad9\u70b9\u7edf\u8ba1\n\n\n\u8fdb\u884c\u5b89\u5168\u76d1\u63a7\n\n\n\n\n\n\nV1.0\uff082016-12-15\uff09\n\n\n\u535a\u5ba2\u4e0a\u7ebf\n\n\n\u5404\u79cd\u4f18\u5316\n\n\n\u524d\u53f0\u9996\u9875\u3001\u5217\u8868\u9875\u3001\u8be6\u60c5\u9875\uff0c\u57fa\u672c\u7684\u6587\u7ae0\u5c55\u793a\n\n\n\u540e\u53f0\u4e0d\u544a\u8bc9\u4f60", 
-            "title": "About Me"
-        }, 
-        {
-            "location": "/about/#_1", 
-            "text": "V2.0  \u8fc1\u79fb\u5230Github Page  \u4f7f\u7528MkDocs\u6587\u6863\u5f15\u64ce  \u4f7f\u7528Material for MkDocs\u6a21\u677f    V1.2\uff082017-2-26\uff09  \u5347\u7ea7\u670d\u52a1\u5668\u786c\u4ef6  \u5347\u7ea7\u5230PHP7  \u4f7f\u7528\u4e07\u8c61\u4f18\u56fe\u5b58\u50a8\u56fe\u7247  \u4f7f\u7528CDN\u52a0\u901f\u56fe\u7247\u52a0\u8f7d    V1.1\uff082016-12-18\uff09  \u524d\u540e\u53f0\u652f\u6301MarkDown  \u4fee\u590d\u6743\u9650\u6f0f\u6d1e  \u4f18\u5316\u6587\u7ae0\u663e\u793a\u6548\u679c  \u65b0\u589e\u7ad9\u70b9\u7edf\u8ba1  \u8fdb\u884c\u5b89\u5168\u76d1\u63a7    V1.0\uff082016-12-15\uff09  \u535a\u5ba2\u4e0a\u7ebf  \u5404\u79cd\u4f18\u5316  \u524d\u53f0\u9996\u9875\u3001\u5217\u8868\u9875\u3001\u8be6\u60c5\u9875\uff0c\u57fa\u672c\u7684\u6587\u7ae0\u5c55\u793a  \u540e\u53f0\u4e0d\u544a\u8bc9\u4f60", 
-            "title": "\u66f4\u65b0\u8bb0\u5f55"
         }
     ]
 }
